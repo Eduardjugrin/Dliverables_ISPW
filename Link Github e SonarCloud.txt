@@ -1,1 +1,3 @@
-Link Github: https://github.com/Eduardjugrin/StudySwapLink SonarCloud: https://sonarcloud.io/summary/new_code?id=Eduardjugrin_StudySwap
+Link Github: https://github.com/Eduardjugrin/StudySwap
+
+Link SonarCloud: https://sonarcloud.io/summary/new_code?id=Eduardjugrin_StudySwap
